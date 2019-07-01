@@ -29,6 +29,7 @@ class App extends Component {
     text.splice(index, 1);
     const updatedText = text.join('');
     this.setState({appInputText: updatedText});
+    return index;
   }
 
   render() {
