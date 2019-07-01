@@ -9,6 +9,7 @@ import reducer from './Reducers/Reducers';
 
 import 'bootstrap/dist/css/bootstrap.css';
 import './index.css';
+import './index.css';
 import App from './Container/App';
 import registerServiceWorker from './registerServiceWorker';
 
